@@ -1,8 +1,7 @@
 # VP-GS
 
-VPGS 的补充材料，PDF文件在github上显示不是很好，材料点击下载图标直接下载即可。
+Supplementary material for the paper "Visual Prior-Guided Adaptive 3D Gaussian Scene Reconstruction under Low-Light Conditions."
 
 ## Supplementary Material
 
-[Download Supplementary Material](./VP-GS_Supplementary_Material.pdf)
-
+[Download Supplementary Material](https://github.com/wpw7639-glitch/VPGS/raw/refs/heads/main/VP-GS_Supplementary_Material.pdf)
